@@ -1,0 +1,21 @@
+sku,name,category,price,barcode,image_url,kc_cert
+P001,곰곰 무농약 현미 4kg,식품,15900,8801000000011,https://img.example.com/p001.jpg,
+P002,곰곰 국산 콩두부 300g,식품,2490,8801000000028,https://img.example.com/p002.jpg,
+P003,곰곰 냉동 블루베리 1kg,식품,11900,8801000000035,https://img.example.com/p003.jpg,
+P004,곰곰 우유 900ml,식품,249,8801000000042,https://img.example.com/p004.jpg,
+P005,곰곰 프리미엄 견과 30봉,식품,18900,8801000000059,,
+P006,코멧 무선 핸디 청소기,가전,59000,8801000000066,https://img.example.com/p006.jpg,XU100123-26001
+P007,코멧 전기 주전자 1.7L,가전,24900,8801000000073,https://img.example.com/p007.jpg,
+P008,코멧 LED 스탠드,가전,32900,8801000000080,https://img.example.com/p008.jpg,XU100123-26002
+P009,코멧 미니 가습기,가전,19900,8801000000097,https://img.example.com/p009.jpg,XU100123-26003
+P010,코멧 USB 충전기 2포트,가전,12900,8801000000097,https://img.example.com/p010.jpg,XU100123-26004
+P011,탐사 강아지 사료 6kg,반려동물,29900,8801000000103,https://img.example.com/p011.jpg,
+P012,탐사 고양이 모래 10L,반려동물,9900,8801000000110,https://img.example.com/p012.jpg,
+P013,탐사 강아지 배변패드 100매,반려동물,14900,8801000000127,https://img.example.com/p013.jpg,
+P014,탐사 고양이 츄르 50개입 100% 최고급,반려동물,15900,8801000000134,https://img.example.com/p014.jpg,
+P015,코멧 키즈 물티슈 캡형 10팩,유아,13900,8801000000141,https://img.example.com/p015.jpg,CB062R123-26002
+P016,코멧 유아 식판 세트,유아,16900,8801000000158,https://img.example.com/p016.jpg,
+P017,코멧 아기 손톱깎이,유아,6900,8801000000165,https://img.example.com/p017.jpg,CB062R123-26001
+P018,곰곰 즉석밥 210g 24개,식품,21900,8801000000172,https://img.example.com/p018.jpg,
+P019,,식품,8900,8801000000189,https://img.example.com/p019.jpg,
+P020,코멧 캠핑 의자,캠핑,39900,8801000000196,https://img.example.com/p020.jpg,

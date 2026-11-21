@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "product-check": {
+      "command": ".venv/Scripts/python",
+      "args": ["server.py"]
+    }
+  }
+}
